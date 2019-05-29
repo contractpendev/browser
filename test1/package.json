@@ -1,0 +1,19 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-list": "^0.8.11"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "babel-cli": "^6.26.0"
+  }
+}
