@@ -3,10 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "drag-scroll-provider": "^1.0.6",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-dragscroll": "^2.0.1",
+    "react-indiana-drag-scroll": "^1.1.1",
     "react-list": "^0.8.11",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-virtualized": "^9.21.1"
   },
   "scripts": {
     "start": "react-scripts start",
